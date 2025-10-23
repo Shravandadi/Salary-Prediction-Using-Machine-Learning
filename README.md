@@ -57,6 +57,3 @@ Python • Pandas • NumPy • Scikit-learn • Matplotlib • Seaborn • Jupy
 - RMSE: 6,500  
 - Processing Time Reduction: 50%
 
----
-
-### **Repository Structure**
